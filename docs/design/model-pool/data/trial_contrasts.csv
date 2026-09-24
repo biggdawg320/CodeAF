@@ -1,0 +1,18 @@
+cls,a,b,a_name,b_name,diff,lo,hi,n,cost_a,cost_b
+bug-fix,C,B,strong-checker crew,uniform low-cost crew,0.0,-1.25,1.1428571428571428,14,0.08322071428571429,0.022740714285714284
+bug-fix,E,B,low-cost crew + low-cost checker,uniform low-cost crew,-0.32142857142857145,-1.3571428571428572,0.75,14,0.027218571428571425,0.022740714285714284
+bug-fix,D,B,uniform frontier crew,uniform low-cost crew,0.2857142857142857,-0.4642857142857143,1.0,14,0.35068142857142853,0.022740714285714284
+bug-fix,F,B,alternative low-cost worker,uniform low-cost crew,-0.5714285714285714,-1.4642857142857142,0.4642857142857143,14,0.06210499999999999,0.022740714285714284
+open-ended,C,B,strong-checker crew,uniform low-cost crew,4.0,3.1875,4.9375,8,0.11660125,0.04902625
+open-ended,E,B,low-cost crew + low-cost checker,uniform low-cost crew,2.0625,0.5,3.625,8,0.04494625,0.04902625
+open-ended,C,E,strong-checker crew,low-cost crew + low-cost checker,1.9375,0.625,3.25,8,0.11660125,0.04494625
+bug-fix,C,D,strong-checker crew,uniform frontier crew,-0.2857142857142857,-1.1785714285714286,0.5,14,0.08322071428571429,0.35068142857142853
+bug-fix,E,D,low-cost crew + low-cost checker,uniform frontier crew,-0.6071428571428571,-1.5,0.35714285714285715,14,0.027218571428571425,0.35068142857142853
+bug-fix,F,D,alternative low-cost worker,uniform frontier crew,-0.8571428571428571,-1.75,0.14285714285714285,14,0.06210499999999999,0.35068142857142853
+bug-fix,B,D,uniform low-cost crew,uniform frontier crew,-0.2857142857142857,-1.0,0.4642857142857143,14,0.022740714285714284,0.35068142857142853
+all,routed (class-aware),uniform low-cost crew,routed (class-aware),uniform low-cost crew,1.4545454545454546,0.6363636363636364,2.3863636363636362,22,,
+all,routed (class-aware),strong-checker crew,routed (class-aware),strong-checker crew,0.0,-0.75,0.8181818181818182,22,,
+all,routed (class-aware),low-cost crew + low-cost checker,routed (class-aware),low-cost crew + low-cost checker,0.9090909090909091,0.022727272727272728,1.7954545454545454,22,,
+open-ended OE1,C,B,strong-checker crew,uniform low-cost crew,3.6666666666666665,2.0,5.0,3,,
+open-ended OE2,C,B,strong-checker crew,uniform low-cost crew,3.8333333333333335,3.5,4.5,3,,
+open-ended OE3,C,B,strong-checker crew,uniform low-cost crew,4.75,3.0,6.5,2,,

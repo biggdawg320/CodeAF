@@ -1,0 +1,19 @@
+{
+ "n_tasks": 111,
+ "n_configs": 89,
+ "aiq_split_half_router": 0.6593090019071507,
+ "aiq_single_hull_half": 0.6631066577456417,
+ "aiq_oracle_half": 0.9250368830479202,
+ "split_half_gain_vs_hull": -0.0037976558384910652,
+ "split_half_gain_range": [
+  -0.07320524837818465,
+  0.02130254105496454
+ ],
+ "noisy_oracle_headroom_half": 0.2619302253022783,
+ "loo_router_gain_vs_hull": 0.025546629983799328,
+ "loo_gain_range": [
+  -0.01317337707326971,
+  0.05838916383849946
+ ],
+ "loo_noisy_oracle_headroom": 0.2835950008575839
+}

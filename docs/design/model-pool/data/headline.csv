@@ -1,0 +1,6 @@
+setting,factor,lo,hi,dq,dq_lo,dq_hi,n,unit
+GitHub issues: class-aware crew vs best fixed crew,1.6767371601208458,1.2601118712076866,2.570614578763767,0.0,-0.75,0.7954545454545454,22,points
+Defect fixes: low-cost crew vs frontier crew,15.42086251845337,11.443432046318126,19.667072880568025,-0.2857142857142857,-1.0,0.4642857142857143,14,points
+DeepSWE: sequential search (r>=0.8) vs best configuration,21.490961710595567,17.119007186099047,25.011089459045536,0.0,,,111,success
+DeepSWE: single-shot router at 95% of best success,2.419984137084056,1.9596251400120608,3.977205858293392,-0.03724966645240784,,,111,success
+"Frontier drift, Apr to May 2026 (50% success)",,,,0.0,,,111,context
